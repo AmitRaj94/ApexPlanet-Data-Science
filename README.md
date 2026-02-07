@@ -33,8 +33,8 @@ Link:  [Exploratory Data Analysis (EDA) & Business Intelligence](https://github.
 
 #### 4.  Data Storytelling & Statistical Validation
 
-    Objective:To synthesize all analysis into a compelling business narrative and use basic statistical methods
-              to add rigor and validate key findings
+    Objective:To synthesize all analysis into a compelling business narrative and use basic
+              statistical methods to add rigor and validate key findings
     Tools: numpy, pandas, matplotlib, seaborn, scipy
 
   Links: [Data Storytelling & Statistical Validation](https://github.com/AmitRaj94/ApexPlanet-Data-Science/tree/09bae0583d6a88447b98b2626ea20f777c48c20d/task%204)
