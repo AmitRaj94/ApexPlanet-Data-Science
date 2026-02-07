@@ -8,8 +8,8 @@ It includes real-world projects covering data cleaning, analysis, visualization,
 ## **Internship**
 
 #### 1. Data Immersion & Wrangling
-    Objective: To rapidly acquaint the intern with the provided dataset and master the critical first step of any 
-                analysis: acquiring, cleaning, and preparing data
+    Objective:  To rapidly acquaint the intern with the provided dataset and master the critical 
+                first step of any analysis: acquiring, cleaning, and preparing data
                 for analysis
     Tools:      Numpy, Pandas, matplotlib, seaborn, sklearn
     
